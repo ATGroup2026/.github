@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### 这里是 ATGroup Organization on Github 
+
+for automation technology and nuedc
+
+你可以在 Organization 新建 Repo，加到下面的资源列表里面。
+通过 Pull Request 更新资源列表。
+
+### 资源列表
+
 <!--
 
 **Here are some ideas to get you started:**
