@@ -17,6 +17,7 @@ for automation technology and nuedc
 ### 资源列表
 
 [HNO3 - 一种基础循迹小车代码（非最优）](https://github.com/HNO3Miracle/LineFollower)
+
 [HNO3 - 电赛校赛25 小车部分](https://github.com/Summer-siemens-stm32/car_orange)
 
 <!--
