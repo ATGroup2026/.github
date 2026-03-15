@@ -20,6 +20,8 @@ for automation technology and nuedc
 
 [HNO3 - 电赛校赛25 小车部分](https://github.com/Summer-siemens-stm32/car_orange)
 
+[HNO3 队做过的全部电赛题目的全部代码](https://github.com/orgs/Summer-siemens-stm32/repositories)
+
 <!--
 
 **Here are some ideas to get you started:**
